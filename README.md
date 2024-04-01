@@ -67,6 +67,7 @@ print(result,unans)
 ### SERVER
 ![image](https://github.com/NARRAAKHIL/4.Execution_of_NetworkCommends/assets/144979843/53e36f45-541b-452c-92c0-1b43c714791f)
 ### TRANCEROUTE COMMAND
-![Uploading image.png…]()
+![image](https://github.com/NARRAAKHIL/4.Execution_of_NetworkCommends/assets/144979843/8bbe8413-9b94-40a5-b789-8204242f163a)
+
 ## Result
 Thus Execution of Network commands Performed 
